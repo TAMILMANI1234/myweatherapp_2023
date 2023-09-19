@@ -76,7 +76,7 @@ class _MyHomePageState extends State<MyHomePage> {
     return Scaffold(
       appBar: AppBar(
         backgroundColor: Theme.of(context).colorScheme.inversePrimary,
-        title: Text("My weatherApp"),
+        title: Text("My weather Application"),
       ),
       body: Column(
         children: [
